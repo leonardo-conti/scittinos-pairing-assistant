@@ -41,7 +41,7 @@ researchAgent/
 
 🚀 How to Run
 1. Clone and set up
-git clone https://github.com/<yourusername>/scittinos-pairing-assistant.git
+git clone https://github.com/leonardo-conti/scittinos-pairing-assistant.git
 cd scittinos-pairing-assistant
 python3 -m venv venv
 source venv/bin/activate
