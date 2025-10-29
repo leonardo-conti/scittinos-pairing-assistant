@@ -99,11 +99,11 @@ Cuisine      : Italian
 Constraints  : —
 
 ╒═══════════════╤══════════════════════════════════════════════════════╕
-│ Course        │ Recommendations                                       │
+│ Course        │ Recommendations                                      │
 ╞═══════════════╪══════════════════════════════════════════════════════╡
-│ Appetizers    │ • Garlic knots                                        │
-│               │ • Arancini (Sicilian rice balls)                      │
-│               │ • House salad                                         │
+│ Appetizers    │ • Garlic knots                                       │
+│               │ • Arancini (Sicilian rice balls)                     │
+│               │ • House salad                                        │
 ├───────────────┼──────────────────────────────────────────────────────┤
 │ Mains         │ • Scittino’s pizzas (Cheese, Pepperoni, Margherita)  │
 │               │ • Stromboli                                          │
